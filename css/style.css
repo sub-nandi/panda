@@ -1,10 +1,8 @@
-.sticky{
-        position: fixed;
-        width: 100%;
-        top: 0;
-        
-      
-}
+
+.fixed-top{
+    margin-left: 110px;
+    margin-right: 110px;
+}      
 .slide{
     background-color: lightpink;
     border-radius: 1em;
