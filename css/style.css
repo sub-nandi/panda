@@ -1,0 +1,27 @@
+.sticky{
+        position: fixed;
+        width: 100%;
+        top: 0;
+        
+      
+}
+.slide{
+    background-color: lightpink;
+    border-radius: 1em;
+}
+.panda-card{
+    border: 0;
+}
+.panda-footer{
+    border: 0;
+    background-color:aliceblue;
+    border-style: none;
+}
+.categories{
+    border-radius: 10px;
+}
+.categories img{
+    width: 100px;
+    height: 100px;
+    
+}
